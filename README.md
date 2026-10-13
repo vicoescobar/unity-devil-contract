@@ -1,7 +1,7 @@
 # 📜 Devil's Contract — The Last Run
 
 > **Un jeu d'horreur et d'évasion à la première personne développé sous Unity 6.**  
-> *Projet réalisé dans le cadre du cursus EPITA.*
+> *Projet réalisé dans le cadre du cursus EPITA, en groupe de 4 semaine, pendant 2 semaines.*
 
 ---
 
